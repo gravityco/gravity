@@ -1,8 +1,6 @@
 # Gravity
 
-Gravity is a netflix like clone for learning how to program.
-
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+Gravity is a netflix like clone for learning how to program. Gravity is currently being developed using the Laravel Framework.
 
 ## Official Documentation
 
